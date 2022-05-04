@@ -1,3 +1,4 @@
+The Dashboard application has pages for products, counter and order list. 
 # Dashboard
 
 This template should help get you started developing with Vue 3 in Vite.
